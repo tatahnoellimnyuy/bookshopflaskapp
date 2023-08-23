@@ -16,7 +16,7 @@ apt -y install ufw
 ```
 ## clone the application
 ```bash
-git clone https://github.com/utrains/bookshopflaskapp.git
+git clone https://github.com/tatahnoellimnyuy/bookshopflaskapp.git
 ```
 ```bash
 cd bookshopflaskapp
